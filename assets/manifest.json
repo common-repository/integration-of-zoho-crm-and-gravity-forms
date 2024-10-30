@@ -1,0 +1,165 @@
+{
+  "App.css": {
+    "file": "bi-928-19.css",
+    "src": "App.css"
+  },
+  "_bi-382-16.js": {
+    "file": "bi-382-16.js",
+    "imports": [
+      "_bi-895-8.js"
+    ]
+  },
+  "_bi-700-15.js": {
+    "file": "bi-700-15.js",
+    "imports": [
+      "index.jsx",
+      "_bi-895-8.js",
+      "_bi-382-16.js"
+    ]
+  },
+  "_bi-895-8.js": {
+    "assets": [
+      "bi-334-0.svg",
+      "bi-465-4.eot",
+      "bi-141-5.ttf",
+      "bi-380-6.woff",
+      "bi-694-7.svg"
+    ],
+    "css": [
+      "bi-928-19.css"
+    ],
+    "dynamicImports": [
+      "components/AllIntegrations/ZohoCRM/EditZohoCRM.jsx",
+      "components/AllIntegrations/ZohoCRM/ZohoCRMAuthorization.jsx",
+      "index.jsx",
+      "components/AllIntegrations/ZohoCRM/ZohoCRMAuthorization.jsx",
+      "index.jsx",
+      "components/AllIntegrations/ZohoCRM/ZohoCRM.jsx",
+      "pages/AllForms.jsx",
+      "pages/Error404.jsx"
+    ],
+    "file": "bi-895-8.js",
+    "imports": [
+      "index.jsx"
+    ],
+    "isDynamicEntry": true
+  },
+  "components/AllIntegrations/ZohoCRM/EditZohoCRM.jsx": {
+    "file": "bi-113-9.js",
+    "imports": [
+      "index.jsx",
+      "_bi-895-8.js",
+      "_bi-700-15.js",
+      "_bi-382-16.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoCRM/EditZohoCRM.jsx"
+  },
+  "components/AllIntegrations/ZohoCRM/ZohoCRM.css": {
+    "file": "bi-582-20.css",
+    "src": "components/AllIntegrations/ZohoCRM/ZohoCRM.css"
+  },
+  "components/AllIntegrations/ZohoCRM/ZohoCRM.jsx": {
+    "css": [
+      "bi-582-20.css"
+    ],
+    "file": "bi-669-11.js",
+    "imports": [
+      "index.jsx",
+      "_bi-895-8.js",
+      "_bi-700-15.js",
+      "components/AllIntegrations/ZohoCRM/ZohoCRMAuthorization.jsx",
+      "_bi-382-16.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoCRM/ZohoCRM.jsx"
+  },
+  "components/AllIntegrations/ZohoCRM/ZohoCRMAuthorization.jsx": {
+    "file": "bi-227-10.js",
+    "imports": [
+      "index.jsx",
+      "_bi-895-8.js",
+      "_bi-382-16.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoCRM/ZohoCRMAuthorization.jsx"
+  },
+  "index.jsx": {
+    "dynamicImports": [
+      "_bi-895-8.js"
+    ],
+    "file": "index-1.0.3.js",
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "index.jsx"
+  },
+  "pages/AllForms.jsx": {
+    "dynamicImports": [
+      "pages/Welcome.jsx"
+    ],
+    "file": "bi-974-12.js",
+    "imports": [
+      "index.jsx",
+      "_bi-895-8.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/AllForms.jsx"
+  },
+  "pages/Error404.jsx": {
+    "assets": [
+      "bi-548-1.svg"
+    ],
+    "file": "bi-697-13.js",
+    "imports": [
+      "index.jsx",
+      "_bi-895-8.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/Error404.jsx"
+  },
+  "pages/Welcome.jsx": {
+    "assets": [
+      "bi-22-2.svg"
+    ],
+    "file": "bi-564-14.js",
+    "imports": [
+      "index.jsx",
+      "_bi-895-8.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/Welcome.jsx"
+  },
+  "resource/icons/fonts/btcd-icn.eot": {
+    "file": "bi-465-4.eot",
+    "src": "resource/icons/fonts/btcd-icn.eot"
+  },
+  "resource/icons/fonts/btcd-icn.svg": {
+    "file": "bi-694-7.svg",
+    "src": "resource/icons/fonts/btcd-icn.svg"
+  },
+  "resource/icons/fonts/btcd-icn.ttf": {
+    "file": "bi-141-5.ttf",
+    "src": "resource/icons/fonts/btcd-icn.ttf"
+  },
+  "resource/icons/fonts/btcd-icn.woff": {
+    "file": "bi-380-6.woff",
+    "src": "resource/icons/fonts/btcd-icn.woff"
+  },
+  "resource/img/home.svg": {
+    "file": "bi-22-2.svg",
+    "src": "resource/img/home.svg"
+  },
+  "resource/img/integ/crm.svg": {
+    "file": "bi-334-0.svg",
+    "src": "resource/img/integ/crm.svg"
+  },
+  "resource/img/space.svg": {
+    "file": "bi-548-1.svg",
+    "src": "resource/img/space.svg"
+  },
+  "user-frontend/bit_gclid.js": {
+    "file": "bit_gclid.js",
+    "isEntry": true,
+    "src": "user-frontend/bit_gclid.js"
+  }
+}

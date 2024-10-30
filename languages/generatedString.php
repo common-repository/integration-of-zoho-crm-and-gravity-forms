@@ -1,0 +1,6 @@
+<?php
+/* THIS IS A GENERATED FILE. DO NOT EDIT DIRECTLY. */
+$i18nStrings = array(
+
+);
+/* THIS IS THE END OF THE GENERATED FILE */
